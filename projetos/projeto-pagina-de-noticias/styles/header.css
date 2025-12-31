@@ -1,0 +1,9 @@
+#primary{
+  padding-block: 20px;
+
+  /* isso se chama nesting css */
+  div:nth-child(2){
+
+  }
+
+}

@@ -50,3 +50,18 @@ a:hover {
 h1, h2, h3 {
   font:  inherit;
 }
+
+
+/* utility-first 
+
+são classes que só vão fazer uma única coisa
+
+*/
+
+.grid{
+  display: grid;
+}
+
+.grid-flow-col{
+  grid-auto-flow: column;
+}
